@@ -1,0 +1,14 @@
+git checkout development
+git pull
+git checkout yourbranch
+git merge development
+
+work on your branch
+
+git add .
+git commit -m "make new change"
+
+git push origin yourbranch
+
+on GitHub repo-
+Make a pull request to development branch

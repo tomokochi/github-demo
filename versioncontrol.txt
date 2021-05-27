@@ -15,6 +15,8 @@ Version Control Best Practice
     Always indicate the issue id;
     Provide a short description of what you did.
 
+   
     
-Git Handbook
-https://guides.github.com/introduction/git-handbook/
+    
+
+First video link: https://www.loom.com/share/92c5cfe09da64e61832f1716c8c14251
