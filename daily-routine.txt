@@ -1,7 +1,7 @@
 git checkout development
 git pull
 git checkout yourbranch
-git merge development
+git rebase development
 
 work on your branch
 
