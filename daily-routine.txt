@@ -12,3 +12,5 @@ git push origin yourbranch
 
 on GitHub repo-
 Make a pull request to development branch
+
+Note: You do NOT push directly to main, development, and staging branches
